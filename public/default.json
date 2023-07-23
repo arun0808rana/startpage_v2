@@ -1,0 +1,55 @@
+[
+    {
+      "name": "Youtube",
+      "url": "https://www.youtube.com/"
+    },
+    {
+      "name": "Github",
+      "url": "https://github.com/arun0808rana/post_format_instructions/tree/main"
+    },
+    {
+      "name": "Snippets Generator",
+      "url": "https://snippet-generator.app/"
+    },
+    {
+      "name": "ChatGPT",
+      "url": "https://chat.openai.com/"
+    },
+    {
+      "name": "Phosphor Icons",
+      "url": "https://phosphoricons.com/"
+    },
+    {
+      "name": "Notion",
+      "url": "https://www.notion.so/"
+    },
+    {
+      "name": "Sflix",
+      "url": "https://sflix.to/home"
+    },
+    {
+      "name": "Zoro",
+      "url": "https://aniwatch.to/"
+    },
+    {
+      "name": "Libgen",
+      "url": "https://libgen.is/"
+    },
+    {
+      "name": "Figma",
+      "url": "https://www.figma.com/"
+    },
+    {
+      "name": "Daily Dev",
+      "url": "https://app.daily.dev/"
+    },
+    {
+      "name": "Open Source News",
+      "url": "https://app.daily.dev/search?q=open+source"
+    },
+    {
+      "name": "Developer Tech News",
+      "url": "https://www.developer-tech.com/"
+    }
+  ]
+  
